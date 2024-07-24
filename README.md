@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello there! I'm Krishnamoorthi 👋
 
-<!--
-**Kr1shna02/Kr1shna02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ I'm a passionate Student with a strong interest in Security Operations and Back-end Development.
+## 🚀 Programming Languages and Frameworks
 
-Here are some ideas to get you started:
+Here are some of the technologies and tools I'm proficient with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat-square)
+
+## 🚀 Tools and Technologies
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kr1shna02&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&border_radius=10)
+
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kr1shna02&theme=radical&border_radius=10)    
+
+## 📬 Get in Touch
+
+- **Email**: [p.l.krishnamoorthy@gmail.com](mailto:p.l.krishnamoorthy@gmail.com)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a/)
+

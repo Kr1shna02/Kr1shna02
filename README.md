@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Krishnamoorthi 👋
 
-+ I'm a passionate Student with a strong interest in Security Operations and Back-end Development.
++ I'm a passionate Student with a strong interest in Cybersecurity and Back-end Development.
 ## 🚀 Programming Languages and Frameworks
 
 Here are some of the technologies and tools I'm proficient with:

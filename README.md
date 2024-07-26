@@ -17,14 +17,15 @@ Here are some of the technologies and tools I'm proficient with:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
+## 📬 Get in Touch
+
+<a href="mailto:p.l.krishnamoorthy@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
+<a href="https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</
+
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kr1shna02&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&border_radius=10)
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kr1shna02&theme=radical&border_radius=10)    
 
-## 📬 Get in Touch
-
-- **Email**: [p.l.krishnamoorthy@gmail.com](mailto:p.l.krishnamoorthy@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a/)
 

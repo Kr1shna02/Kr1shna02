@@ -20,7 +20,8 @@ Here are some of the technologies and tools I'm proficient with:
 ## 📬 Get in Touch
 
 <a href="mailto:p.l.krishnamoorthy@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</
+<a href="https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
+
 
 ## 📊 GitHub Stats
 

@@ -19,8 +19,7 @@
 
 ## 📬 Get in Touch
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?logo=linkedin&logoColor=0077B5&style=flat-square)](https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?logo=linkedin&logoColor=0077B5&style=flat-square)](https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a)
 
 ## 📊 GitHub Stats
 

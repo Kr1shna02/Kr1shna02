@@ -17,8 +17,8 @@
 
 ## 📬 Get in Touch
 
-<a href="mailto:p.l.krishnamoorthy@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
-<a href="https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a/">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
+[![Gmail](https://img.shields.io/badge/-Gmail-ffffff?logo=gmail&logoColor=D14836&style=flat-square)](mailto:p.l.krishnamoorthy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?logo=linkedin&logoColor=0077B5&style=flat-square)](https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a)
 
 
 ## 📊 GitHub Stats

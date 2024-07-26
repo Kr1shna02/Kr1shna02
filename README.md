@@ -2,7 +2,7 @@
 
 + I am a passionate student with a keen interest in cybersecurity and software development.
 
-## 🚀 Programming Languages and Frameworks
+## 🚀 Programming Languages & Frameworks
 
 Here are some of the technologies and tools I'm proficient with:
 

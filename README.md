@@ -4,8 +4,6 @@
 
 ## 🚀 Programming Languages & Frameworks
 
-Here are some of the technologies and tools I'm proficient with:
-
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=flat-square)

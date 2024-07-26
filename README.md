@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Krishnamoorthi 👋
 
-+ I am a passionate student with a keen interest in cybersecurity and software development.
++ I am a passionate Student with a keen interest in Cybersecurity and Software Development.
 
 ## 🚀 Programming Languages & Frameworks
 

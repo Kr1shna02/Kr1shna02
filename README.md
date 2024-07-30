@@ -4,10 +4,9 @@
 
 ## 🚀 Programming Languages & Frameworks
 
-![Go](https://img.shields.io/badge/-Go-ffffff?logo=go&logoColor=00ADD8&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-ffffff?logo=python&logoColor=306998&style=flat-square)
 ![C](https://img.shields.io/badge/-C-ffffff?logo=C&logoColor=00599C&style=flat-square)
 ![C++](https://img.shields.io/badge/-C%2B%2B-ffffff?logo=C%2B%2B&logoColor=00599C&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-ffffff?logo=python&logoColor=306998&style=flat-square)
 
 
 ## 🚀 Tools and Technologies

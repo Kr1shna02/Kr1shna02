@@ -8,7 +8,6 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-ffffff?logo=C%2B%2B&logoColor=00599C&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-ffffff?logo=python&logoColor=306998&style=flat-square)
 
-
 ## Tools and Technologies
 
 ![Git](https://img.shields.io/badge/-Git-ffffff?logo=git&logoColor=F05032&style=flat-square)

@@ -16,11 +16,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?logo=github&logoColor=181717&style=flat-square)
 ![Fortiweb](https://img.shields.io/badge/-Fortiweb-ffffff?logo=Fortinet&logoColor=F05032&style=flat-square)
 
-## Profiles
-
-[![Tryhackme](https://img.shields.io/badge/-Tryhackme-ffffff?logo=Tryhackme&logoColor=red&style=flat-square)](https://tryhackme.com/p/Kr1shna02)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-ffffff?logo=Leetcode&logoColor=000000&style=flat-square)](https://leetcode.com/u/Kr1shna02/)
-
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?logo=linkedin&logoColor=0077B5&style=flat-square)](https://www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a)

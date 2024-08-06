@@ -13,7 +13,6 @@
 ![Git](https://img.shields.io/badge/-Git-ffffff?logo=git&logoColor=F05032&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=ffffff&style=flat-square&color=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?logo=github&logoColor=181717&style=flat-square)
-![Fortiweb](https://img.shields.io/badge/-Fortiweb-ffffff?logo=Fortinet&logoColor=F05032&style=flat-square)
 
 ## Get in Touch
 

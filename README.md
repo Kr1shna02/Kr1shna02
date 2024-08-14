@@ -4,12 +4,7 @@
 + I am currently pursuing a BTech in Computer Science with a specialization in Cybersecurity @ Amrita Vishwa Vidyapeetham.
 + CTF Player @ 1nT_ha©K - [Team Profile](https://ctftime.org/team/311137)
 + I love Coding and Problem Solving - [Leetcode Profile](https://leetcode.com/u/Kr1shna02/)
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.l.krishnamoorthy)
-
-
+  
 ## 💻 Tech Stack
 
 ### Programming
@@ -20,6 +15,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FortiWeb](https://img.shields.io/badge/FortiWeb-0074D9?style=for-the-badge&logo=fortinet&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-FF4136?style=for-the-badge&logo=fortinet&logoColor=white)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.l.krishnamoorthy@gmail.com)
 
 ## 📈 Github Stats
 

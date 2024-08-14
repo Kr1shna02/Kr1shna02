@@ -18,7 +18,6 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.l.krishnamoorthy@gmail.com)
 
 ## 📈 Github Stats
 

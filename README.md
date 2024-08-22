@@ -3,7 +3,7 @@
 + I am an aspiring SOC analyst and Blue Teamer.
 + I am currently pursuing a BTech in Computer Science with a specialization in Cybersecurity @ Amrita Vishwa Vidyapeetham.
 + CTF Player @ 1nT_ha©K - [Team Profile](https://ctftime.org/team/311137)
-+ I love Coding and Problem Solving - [Leetcode Profile](https://leetcode.com/u/Kr1shnam00rth1/)
++ I love Coding and Problem Solving - [Leetcode Profile](https://leetcode.com/u/Kr1shnam00rthi/)
   
 ## 💻 Tech Stack
 

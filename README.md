@@ -20,5 +20,5 @@
 
 ## 📈 Github Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kr1shnam00rth1&theme=light) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1shnam00rth1&layout=compact&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kr1shnam00rthi&theme=light) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr1shnam00rthi&layout=compact&theme=light)
 

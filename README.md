@@ -14,9 +14,7 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
 
 ### Tools & technology's
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FortiWeb](https://img.shields.io/badge/FortiWeb-0074D9?style=for-the-badge&logo=fortinet&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-FF4136?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishnamoorthi-p-l-3307bb28a) 

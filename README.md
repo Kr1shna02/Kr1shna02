@@ -9,9 +9,6 @@
 
 ### Programming
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
 
 ### Tools & technology's
 ![FortiWeb](https://img.shields.io/badge/FortiWeb-0074D9?style=for-the-badge&logo=fortinet&logoColor=white)

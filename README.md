@@ -12,6 +12,7 @@
 
 ### Tools & technology's
 ![FortiWeb](https://img.shields.io/badge/FortiWeb-D32F2F?style=for-the-badge&logo=fortinet&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-D32F2F?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-87CEEB?style=for-the-badge&logo=wireshark&logoColor=black)
 
 ## 🌐 Socials
